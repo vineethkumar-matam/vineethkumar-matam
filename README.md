@@ -12,7 +12,7 @@ I build LLM-powered web applications: React/TypeScript frontends, Spring Boot an
 ## Tech
 Python · Java · TypeScript · React · Spring Boot · FastAPI · PostgreSQL · Docker · AWS
 
-📫 [LinkedIn](your-linkedin-url) · vineethkumar2601@gmail.com## Hi there 👋
+📫 [LinkedIn](your-linkedin-url) · vineethkumar2601@gmail.com##
 
 <!--
 **vineethkumar-matam/vineethkumar-matam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
